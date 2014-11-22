@@ -1,0 +1,53 @@
+html,body,#wrapper {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+}
+ 
+.chart {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+ 
+.axis path,.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+ 
+.chair {
+	fill: #1f78b4;
+}
+ 
+.member {
+	fill: #DBDDE0;
+}
+ 
+.secretary {
+	fill: #b2df8a;
+}
+
+.secretary_only {
+	fill: #6a3d9a;
+}
+
+.postgraduate {
+	fill: #cab2d6;
+}
+
+.website {
+	fill: #ffff99;
+}
+
+.treasurer {
+	fill: #cab2d6;
+}
+ 
+.catmog {
+	fill: #fb9a99;
+}
+
+.news {
+	fill: #ff7f00;
+}
+ 
