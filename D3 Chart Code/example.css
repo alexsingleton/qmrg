@@ -40,7 +40,7 @@ html,body,#wrapper {
 }
 
 .treasurer {
-	fill: #cab2d6;
+	fill: #b6fcd5;
 }
  
 .catmog {
@@ -51,3 +51,66 @@ html,body,#wrapper {
 	fill: #ff7f00;
 }
  
+
+.chairtxt {
+    color:#FFFFFF;
+	background-color: #1f78b4;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.membertxt {
+    color:#666666;
+	background-color: #DBDDE0;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.secretarytxt {
+    color:#6c8952;
+	background-color: #b2df8a;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.secretary_onlytxt {
+    color:#FFFFFF;
+	background-color: #6a3d9a;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.postgraduatetxt {
+    color:#6a3d9a;
+	background-color: #cab2d6;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.websitetxt {
+    color:#a7a751;
+	background-color: #ffff99;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.treasurertxt {
+    color:#3f875f;
+	background-color: #b6fcd5;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.catmogtxt {
+    color:#FFFFFF;
+	background-color: #fb9a99;
+	padding-left:10px; 
+    padding-right:10px; 
+}
+
+.newstxt {
+    color:#FFFFFF;
+	background-color: #ff7f00;
+	padding-left:10px; 
+    padding-right:10px; 
+}
